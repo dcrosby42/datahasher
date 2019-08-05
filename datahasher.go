@@ -1,4 +1,4 @@
-package vugu
+package datahasher
 
 import (
 	"encoding/binary"
