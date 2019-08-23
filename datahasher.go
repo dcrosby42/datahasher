@@ -186,6 +186,4 @@ func ComputeHash(i interface{}) uint64 {
 		// nop
 		return 0
 	}
-
-	panic("unreachable code")
 }
