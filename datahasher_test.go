@@ -3,9 +3,9 @@ package datahasher_test
 import (
 	"testing"
 
-	"git.llnw.com/dcrosby/datahasher"
 	"github.com/cespare/xxhash"
 	. "github.com/smartystreets/goconvey/convey"
+	"github.llnw.net/dcrosby/datahasher.git"
 )
 
 func TestComputeHash(t *testing.T) {
