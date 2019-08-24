@@ -1,4 +1,4 @@
-module github.llnw.net/dcrosby/datahasher
+module github.llnw.net/dcrosby/datahasher.git
 
 go 1.12
 
